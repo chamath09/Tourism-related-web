@@ -1,7 +1,7 @@
 "use client";
 
 import dynamic from "next/dynamic";
-import SearchBox from "@/app/(components)/Helper/SearchBox";
+import SearchBox from "@/app/components/Helper/SearchBox";
 import React from "react";
 import Link from "next/link";
 

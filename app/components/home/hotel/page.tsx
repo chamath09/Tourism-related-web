@@ -1,4 +1,4 @@
-import SectionHeading from "@/app/(components)/Helper/SectionHeading";
+import SectionHeading from "@/app/components/Helper/SectionHeading";
 import React from "react";
 import HotelCard from "./HotelCard";
 import { hotelsData } from "@/data/data";
