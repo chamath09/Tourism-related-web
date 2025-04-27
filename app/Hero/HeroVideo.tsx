@@ -15,7 +15,7 @@ const HeroVideo: React.FC = () => {
 
   return (
     <video
-      src="/images/hero1.mp4"
+      src="https://cdn.pixabay.com/video/2024/07/09/220296_tiny.mp4"
       autoPlay
       loop
       muted

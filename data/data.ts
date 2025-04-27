@@ -38,13 +38,15 @@ export const destinationData = [
   },
   {
     id: 7,
-    image: "/images/d7.jpg",
+    image:
+      "https://cdn.pixabay.com/photo/2018/01/09/12/20/hamburg-3071437_640.jpg",
     country: "Germany",
     travelers: "160,000",
   },
   {
     id: 8,
-    image: "/images/d8.jpg",
+    image:
+      "https://cdn.pixabay.com/photo/2020/01/29/18/48/brazil-4803296_640.jpg",
     country: "Brazil",
     travelers: "140,000",
   },
@@ -62,7 +64,8 @@ export const hotelsData = [
   },
   {
     id: 2,
-    image: "/images/h2.jpg",
+    image:
+      "https://cdn.pixabay.com/photo/2017/01/28/19/31/landscape-2016308_640.jpg",
     name: "Barcelona City Suites Deluxe Hotel",
     location: "Ciutat Vella, Barcelona",
     rating: 4.7,
@@ -80,7 +83,8 @@ export const hotelsData = [
   },
   {
     id: 4,
-    image: "/images/h4.jpg",
+    image:
+      "https://cdn.pixabay.com/photo/2014/07/21/19/20/lobby-398845_640.jpg",
     name: "Hilton Roma Luxury Hotel Palace",
     location: "Vaticano Prati, Rome",
     rating: 4.5,

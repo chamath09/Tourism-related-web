@@ -14,10 +14,10 @@ const AboutUs = () => {
                 <div className="pt-24 lg:justify-center sm:justify-end justify-start items-start gap-2.5 flex">
                   <Image
                     className="rounded-xl object-cover"
-                    src="https://pagedone.io/asset/uploads/1717741205.png"
+                    src="https://images.pexels.com/photos/2108845/pexels-photo-2108845.jpeg?auto=compress&cs=tinysrgb&w=400"
                     alt="about Us image"
-                    width={500}
-                    height={500}
+                    width={300}
+                    height={400}
                   />
                 </div>
                 <Image
@@ -36,7 +36,7 @@ const AboutUs = () => {
                     </h2>
                     <p className="text-gray-500 text-base font-normal leading-relaxed lg:text-start text-center">
                       {
-                        "Every project we've undertaken has been a collaborative effort, where every person involved has left their mark. Together, we've not only constructed buildings but also built enduring connections that define our success story."
+                        "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Velit, accusamus iure magni quia ullam cupiditate totam dolorem vel consectetur assumenda itaque optio enim harum quidem earum animi saepe repudiandae aut."
                       }
                     </p>
                   </div>
