@@ -1,6 +1,6 @@
-import React from 'react'
-import SectionHeading from '../../Helper/SectionHeading'
-import WhyChooseCard from './WhyChooseCard'
+import React from "react";
+import SectionHeading from "../Helper/SectionHeading";
+import WhyChooseCard from "./WhyChooseCard";
 
 const WhyChooseUs = () => {
   return (
@@ -15,11 +15,14 @@ const WhyChooseUs = () => {
           <WhyChooseCard image="/images/c2.svg" title="Easy & Quick Booking" />
         </div>
         <div>
-          <WhyChooseCard image="/images/c3.svg" title="Customer Support 24/7 " />
+          <WhyChooseCard
+            image="/images/c3.svg"
+            title="Customer Support 24/7 "
+          />
         </div>
       </div>
     </div>
   );
-}
+};
 
-export default WhyChooseUs
+export default WhyChooseUs;

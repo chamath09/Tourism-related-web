@@ -8,27 +8,27 @@ export const navLinks = [
   },
   {
     id: 2,
-    url: "/components/home/destination",
+    url: "/destination",
     label: "Destination",
   },
   {
     id: 3,
-    url: "/components/home/hotel",
+    url: "/hotel",
     label: "Hotels",
   },
   {
     id: 4,
-    url: "/components/home/about",
+    url: "/about",
     label: "About",
   },
   {
     id: 5,
-    url: "/components/home/services",
+    url: "/services",
     label: "Services",
   },
   {
     id: 6,
-    url: "/components/home/contact",
+    url: "/contact",
     label: "Contact",
   },
 ];

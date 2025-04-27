@@ -1,6 +1,6 @@
 import React from "react";
 import Image from "next/image";
-import SectionHeading from "../../Helper/SectionHeading";
+import SectionHeading from "../Helper/SectionHeading";
 
 const AboutUs = () => {
   return (

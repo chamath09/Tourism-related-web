@@ -5,7 +5,7 @@ import {
   FaLinkedinIn,
   FaTwitter,
 } from "react-icons/fa";
-import SectionHeading from "../../Helper/SectionHeading";
+import SectionHeading from "../Helper/SectionHeading";
 
 const ContactUs = () => {
   return (
