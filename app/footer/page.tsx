@@ -1,6 +1,6 @@
 import React from 'react'
 import Link from 'next/link'
-import { FaWeibo } from 'react-icons/fa'
+import { FaSquareWebAwesome } from 'react-icons/fa6';
 
 const Footer = () => {
   return (
@@ -85,10 +85,9 @@ const Footer = () => {
       </div>
       {/* end */}
       <div className='mt-8 w-[80%] mx-auto border-t-2 pt-8 flex flex-col md:flex-row justify-between items-center text-gray-600 text-sm'>
-        <p className='text-center md:text-left'>Copyright @chamath 2025. All rights reserved</p>
         <div className='flex items-center space-x-4 mt-4 md:mt-0'>
             <span>Spcial: </span>
-            <Link href="#"><FaWeibo/></Link>
+            <Link href="#"><FaSquareWebAwesome/></Link>
         </div>
       </div>
     </div>
