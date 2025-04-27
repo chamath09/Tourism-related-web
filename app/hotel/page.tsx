@@ -5,7 +5,7 @@ import { hotelsData } from "@/data/data";
 
 const Hotel = () => {
   return (
-    <div className="pt-20 pb-10">
+    <div className="pt-24 pb-10">
       {/* section heading */}
       <SectionHeading heading="Explore Popular Hotels" />
       <div className="w-[80%] mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8 mt-16 items-center">
